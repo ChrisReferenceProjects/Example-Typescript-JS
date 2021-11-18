@@ -6,4 +6,4 @@ module.exports = {
 			globalComponents: ['./src/components/**/*.vue'],
 		},
 	],
-};
+}; // toto
